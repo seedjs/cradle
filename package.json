@@ -1,0 +1,11 @@
+{
+  "name": "cradle",
+  "description": "High-level adaptor for CouchDB on node",
+  "author": "Alexis Sellier",
+  "version": "0.1.0",
+  "site": "http://cloudhead.io/cradle",
+  "repositories": [
+    { "type": "git", "url": "http://github.com/seedjs/cradle" }
+  ]
+  
+}
